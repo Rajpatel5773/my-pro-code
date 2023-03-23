@@ -1,0 +1,65 @@
+.main-div{
+    display: inline-flex;
+}
+.div1{
+    color: white;
+    background-color: rgb(141, 35, 27);
+    width: 500px;
+    padding: 15px 0px 15px 10px;
+    margin-right: 170px;
+    margin-left: 40px;
+}
+.div2{
+    color: rgb(141, 35, 27);
+    background-color: rgb(173, 173, 173);
+    width: 500px;
+    padding: 15px 0px 15px 10px;
+    margin-right: 40px;
+}
+.buttondiv2{
+    margin-left: 150px;
+    padding: 3px 5px 3px 5px;
+    background-color:  rgb(141, 35, 27);
+    color: white;
+    border: none;
+}
+.gift{
+    margin-right: 10px;
+}
+.search{
+    margin-right: 10px;
+}
+.main-nav{
+   margin-top: 20px;
+}
+.main-nav1,.main-nav2,.main-nav3,.main-nav4{
+    display: inline-block;
+    height: 100px;
+    width: 250px;
+    border: 1px solid rgb(166, 166, 166);
+    margin-right: 41px;
+    margin-left: 20px;
+}
+.pig{
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+p{
+    text-align: center;
+}
+
+.view{
+    margin-left: 570px;
+    padding: 10px 25px 10px 25px;
+    background-color:rgb(141, 35, 27) ;
+    color: white;
+    border: none;
+    margin-top: 40px;
+}
+input{
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 20px;
+}
